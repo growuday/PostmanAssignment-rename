@@ -1,2 +1,2 @@
-#revathi postman assignment
-Sudhakar assignment to create repository
+Revathi's postman assignment working,
+Assigned by Sudhakar to create repository
